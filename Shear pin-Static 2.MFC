@@ -1,0 +1,18 @@
+[StartTime]
+Shear pin-Static 2.MFC=1m:25s
+[SolverState]
+Shear pin-Static 2.MFC=2
+[MainFrame]
+Shear pin-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Shear pin-Static 2.MFC=No
+[SolverType]
+Shear pin-Static 2.MFC=Linear Analysis
+[StudyType]
+Shear pin-Static 2.MFC=0
+[StudyName]
+Shear pin-Static 2.MFC=Static 2
+[Solver]
+Shear pin-Static 2.MFC=Iterative
+[Dynamic]
+Shear pin-Static 2.MFC=0

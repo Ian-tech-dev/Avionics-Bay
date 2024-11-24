@@ -1,0 +1,16 @@
+[StartTime]
+Eye bolt M6 DIN580-Static 2.MFC=3s
+[SolverState]
+Eye bolt M6 DIN580-Static 2.MFC=2
+[MainFrame]
+Eye bolt M6 DIN580-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Eye bolt M6 DIN580-Static 2.MFC=No
+[SolverType]
+Eye bolt M6 DIN580-Static 2.MFC=Linear Analysis
+[StudyType]
+Eye bolt M6 DIN580-Static 2.MFC=0
+[StudyName]
+Eye bolt M6 DIN580-Static 2.MFC=Static 2
+[Solver]
+Eye bolt M6 DIN580-Static 2.MFC=Iterative
